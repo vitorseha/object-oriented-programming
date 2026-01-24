@@ -1,0 +1,11 @@
+com\mycompany\sistemaacademico\Course.class
+com\mycompany\sistemaacademico\CoursesScreen.class
+com\mycompany\sistemaacademico\DAO.class
+com\mycompany\sistemaacademico\DatabaseConnection.class
+com\mycompany\sistemaacademico\Student.class
+com\mycompany\sistemaacademico\StudentsByCourseTableModel.class
+com\mycompany\sistemaacademico\EnrollmentsScreen.class
+com\mycompany\sistemaacademico\LoginScreen.class
+com\mycompany\sistemaacademico\DashboardScreen.class
+com\mycompany\sistemaacademico\SistemaAcademico.class
+com\mycompany\sistemaacademico\User.class
